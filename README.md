@@ -2,19 +2,40 @@
 
 ## Hi, I'm Aditya Pise 👋  
 
-I am a Software Engineer passionate about AI-driven solutions, software development, and innovation. With expertise in backend engineering, full-stack development, and Generative AI, I leverage cutting-edge technologies to build scalable, impactful applications.  
+I'm a Software Engineer with 2+ years of professional experience, currently pursuing my MS in Computer Science at Indiana University Bloomington. I specialize in building scalable backend systems, cloud-native applications, and production-ready solutions powered by Generative AI.
 
-A problem solver at heart, I thrive in fast-paced environments, quickly adapting to new challenges, and collaborating effectively as a team player to drive innovation and technical excellence.  
+At Persistent Systems, I contributed to high-impact projects such as:
 
-### 💡 Professional Expertise  
-- AI & Generative AI: Built WingMate, an AI-driven IDE extension automating code review, backend generation, and testing. Led the development of an LLM-powered RAG-based AI platform for enterprise clients, optimizing knowledge retrieval and automation.  
-- Software Development & System Design: Experience designing and implementing high-performance backend systems using Django, Flask, FastAPI, and SpringBoot, ensuring efficiency and scalability.  
-- Full-Stack Engineering: Developed ShopEase, an AI-enhanced e-commerce platform with real-time payment integration, personalized shopping assistants, and scalable microservices.  
-- Cloud & DevOps:*Proficient in AWS, Azure, Docker, and Kubernetes, enabling secure and scalable deployment of modern applications.  
+- 🏦 **Banking Platform Optimization**: Enhanced performance for a banking application serving 50,000+ customers by optimizing SQL queries, building high-performance RESTful APIs using Java Spring Boot, and implementing event-driven microservices with Kafka. Improved code reliability by increasing unit test coverage by 30% using JUnit and Mockito.
 
-### 🚀 Featured Projects  
-- [ShopEase: AI-Powered E-Commerce](https://github.com/anpise/ShopEase)– A full-stack e-commerce platform with AI-enhanced chatbot integration, built using Django, React, and Docker.  
-- [Sign Language Recognition System](https://github.com/anpise/Sign-Language-Recognition-System)** – A deep learning-based American Sign Language (ASL) recognition tool using OpenCV and TensorFlow.  
+- 💻 **WingMate**: Boosted developer productivity by 25% by building an AI-powered IDE extension that automated backend code generation, test creation, and deployment workflows. Built using Python, Django, and secure LLMs like GPT-4. Deployed on AWS EC2 using Docker, with CI/CD powered by GitHub Actions.
+
+- 🛠️ **Code Migration Framework**: Reduced migration effort by 20% by developing a tool that parsed entire projects to create a graph-based view of function dependencies. Leveraged Neo4j and secure LLMs like GPT-4 and Claude to drive automated, function-wise legacy code transformation.
+
+- 🤖 **Enterprise RAG Platform**: Delivered the team’s first production-ready Retrieval-Augmented Generation solution. Led a team of 3 to build a secure document-based chat platform across multiple business units using Django, React, LangChain, and Azure AI services, with integrated RBAC for secure access control.
+
+I'm passionate about solving real-world engineering problems with AI, and I thrive on building impactful systems that bridge backend infrastructure and intelligent automation.
+
+## 💡 Core Expertise
+- **Backend Engineering**: Django, Flask, FastAPI, Java, Spring Boot, 
+- **Generative AI**: LangChain, RAG, LlamaIndex, GPT-4, Claude, Neo4j
+- **Cloud & DevOps**: AWS, Azure, Docker, GitHub Actions, CI/CD
+- **System Design**: Scalable APIs, Microservices, Caching, Event-Driven Architectures
+
+## 🚀 Featured Projects
+- [Spendlytic: Smart Expense Tracker](https://github.com/anpise/spendlytic) – A personal finance tracker using Flask microservices, OCR, and o4-mini LLMs for real-time receipt parsing. Deployed on AWS EKS with Docker, stress-tested with JMeter, and monitored via CloudWatch. [Live Demo](https://spendlytic.onrender.com/)
+- [ShopEase: AI-Powered E-Commerce](https://github.com/anpise/ShopEase) – A full-stack e-commerce platform using Django and React, supporting real-time payments, user authentication, product management, and a dynamic cart/order system.  
+- [Sign Language Recognition System](https://github.com/anpise/Sign-Language-Recognition-System) – A deep learning-powered ASL interpreter using OpenCV and TensorFlow, trained on 100,000+ images for high-accuracy character recognition.
+
+## ✍️ Featured Articles
+- [Git Mastery Series](https://medium.com/@adityapise.0711/part-1-mastering-git-what-why-and-how-it-works-a77d2b7cd902)
+- [Building Spendlytic: From Prototype to Scalable Cloud-Native System on AWS](https://www.linkedin.com/pulse/buidling-spendlytic-from-prototype-scalable-system-aws-aditya-pise-pyj0f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Btq4slw47QZS852jXhT7peQ%3D%3D)
+
+## Connect with me:
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapise.0711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/adityapise)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapise.0711)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anpise)
 
 ## 🛠️ Technical Skills  
 
@@ -63,7 +84,5 @@ A problem solver at heart, I thrive in fast-paced environments, quickly adapting
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
-## Connect with me:
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapise.0711@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/adityapise)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anpise)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anpise&show_icons=true&theme=github_dark&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpise&layout=compact&theme=github_dark)
