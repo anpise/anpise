@@ -83,6 +83,3 @@ I'm passionate about solving real-world engineering problems with AI, and I thri
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00C853?style=for-the-badge&logo=llamaindex&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anpise&show_icons=true&theme=github_dark&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anpise&layout=compact&theme=github_dark)
