@@ -28,13 +28,13 @@ I'm passionate about solving real-world engineering problems with AI, and I thri
 - [Sign Language Recognition System](https://github.com/anpise/Sign-Language-Recognition-System) – A deep learning-powered ASL interpreter using OpenCV and TensorFlow, trained on 100,000+ images for high-accuracy character recognition.
 
 ## 📜 Certifications
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6a455761-6178-463f-9e4b-eda74f258c77/public_url)
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/6a455761-6178-463f-9e4b-eda74f258c77/public_url)
 - [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/b0bf0d70-90a8-4e19-bf51-116d41880af7/public_url)
 - [Docker Fundamentals by KodeKloud](https://learn.kodekloud.com/certificate/9771d1ac-2ba5-4624-8e47-9e20a5ddab5d)
 - [The Modern Python Bootcamp](https://www.udemy.com/certificate/UC-7327e6de-b058-478f-99cf-3e36ed068989/)
 
 ## ✍️ Featured Articles
-- [Git Mastery Series]
+- Git Mastery Series
   - [Part 1: Mastering Git — What, Why, and How It Works](https://medium.com/@adityapise.0711/part-1-mastering-git-what-why-and-how-it-works-a77d2b7cd902)
   - [Part 2: Understanding Git Commands Deeply](https://medium.com/@adityapise.0711/part-2-understanding-git-commands-deeply-dc4af672926e)
   - [Part 3 — Advanced Git Internals and Best Practices](https://medium.com/@adityapise.0711/part-3-advanced-git-internals-and-best-practices-fefb747c0e1e?sk=c61738ff06deb2ee8f81b7e1cc14a674)
