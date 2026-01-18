@@ -1,94 +1,92 @@
-<p align="center"><a href="https://github.com/anpise"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Aditya's+Github+Profile" alt="Typing SVG" /></a></p>
+<p align="center">
+  <a href="https://github.com/anpise">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=600&color=3498DB&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Welcome+to+my+GitHub;Aditya+Pise+%7C+Software+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Hi, I'm Aditya Pise 👋  
 
-I'm a Software Engineer with 2+ years of professional experience, currently pursuing my MS in Computer Science at Indiana University Bloomington. I specialize in building scalable backend systems, cloud-native applications, and production-ready solutions powered by Generative AI.
+I'm a **Software Engineer** with **2+ years of professional experience**, currently pursuing my **MS in Computer Science at Indiana University Bloomington**.  
+I focus on building **scalable backend systems**, **cloud-native applications**, and **production-ready solutions using Generative AI**.
 
-At Persistent Systems, I contributed to high-impact projects such as:
+🌐 **Portfolio:** https://adityapise.com  
 
-- 🏦 **Banking Platform Optimization**: Enhanced performance for a banking application serving 50,000+ customers by optimizing SQL queries, building high-performance RESTful APIs using Java Spring Boot, and implementing event-driven microservices with Kafka. Improved code reliability by increasing unit test coverage by 30% using JUnit and Mockito.
+---
 
-- 💻 **WingMate**: Boosted developer productivity by 25% by building an AI-powered IDE extension that automated backend code generation, test creation, and deployment workflows. Built using Python, Django, and secure LLMs like GPT-4. Deployed on AWS EC2 using Docker, with CI/CD powered by GitHub Actions.
+## 🧠 What I Work On
 
-- 🛠️ **Code Migration Framework**: Reduced migration effort by 20% by developing a tool that parsed entire projects to create a graph-based view of function dependencies. Leveraged Neo4j and secure LLMs like GPT-4 and Claude to drive automated, function-wise legacy code transformation.
+- Backend systems using **Java (Spring Boot)** and **Python**
+- Cloud-native and serverless architectures on **AWS**
+- **Applied Generative AI** systems including RAG pipelines and agent-based workflows
+- Event-driven systems using **Kafka** and **Redis**
+- Developer productivity tooling and automation
 
-- 🤖 **Enterprise RAG Platform**: Delivered the team’s first production-ready Retrieval-Augmented Generation solution. Led a team of 3 to build a secure document-based chat platform across multiple business units using Django, React, LangChain, and Azure AI services, with integrated RBAC for secure access control.
+---
 
-I'm passionate about solving real-world engineering problems with AI, and I thrive on building impactful systems that bridge backend infrastructure and intelligent automation.
+## 🏢 Industry Experience (Highlights)
 
-## 💡 Core Expertise
-- **Backend Engineering**: Django, Flask, FastAPI, Java, Spring Boot, 
-- **Generative AI**: LangChain, RAG, LlamaIndex, GPT-4, Claude, Neo4j
-- **Cloud & DevOps**: AWS, Azure, Docker, GitHub Actions, CI/CD
-- **System Design**: Scalable APIs, Microservices, Caching, Event-Driven Architectures
+At **Persistent Systems**, I worked on enterprise-scale backend and GenAI platforms:
+
+- **Banking Platform Engineering**  
+  Built high-performance REST APIs and event-driven microservices serving **1M+ users**, with Kafka-based workflows and Redis caching.
+
+- **Enterprise RAG Platform**  
+  Led delivery of a production-ready Retrieval-Augmented Generation system enabling secure chat over internal documents across multiple business units.
+
+- **AI-Powered Developer Tools**  
+  Built AI-assisted IDE tooling and automation pipelines using LLMs to accelerate backend generation, testing, and large-scale code migration.
+
+---
 
 ## 🚀 Featured Projects
-- [Spendlytic: Smart Expense Tracker](https://github.com/anpise/spendlytic) – A personal finance tracker using Flask microservices, OCR, and o4-mini LLMs for real-time receipt parsing. Deployed on AWS EKS with Docker, stress-tested with JMeter, and monitored via CloudWatch. [Live Demo](https://spendlytic.onrender.com/)
-- [ShopEase: AI-Powered E-Commerce](https://github.com/anpise/ShopEase) – A full-stack e-commerce platform using Django and React, supporting real-time payments, user authentication, product management, and a dynamic cart/order system.  
-- [Sign Language Recognition System](https://github.com/anpise/Sign-Language-Recognition-System) – A deep learning-powered ASL interpreter using OpenCV and TensorFlow, trained on 100,000+ images for high-accuracy character recognition.
+
+- **[JobTrackr](https://adityapise.com/projects/jobtrackr)**  
+  Serverless job-tracking platform with a Chrome extension, built using AWS Lambda, DynamoDB, API Gateway, and React.
+
+- **[Agent Research Explorer](https://adityapise.com/projects/agent-research-explorer)**  
+  Multi-agent research system that automates topic analysis and generates structured, citation-ready reports using retrieval pipelines and coordinated LLM agents.
+
+- **[Spendlytic](https://adityapise.com/projects/spendlytic)**  
+  Cloud-native expense tracker using Flask microservices, OCR, and LLMs, deployed on AWS EKS and load-tested with JMeter.
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write about **backend engineering, AWS, and system design**:
+
+- **Learning AWS the Practical Way** (Series)
+- **Advanced Git Internals and Best Practices**
+- **Building Spendlytic: From Prototype to Cloud-Native System**
+
+📖 Articles: https://medium.com/@adityapise.0711
+
+---
 
 ## 📜 Certifications
-- [AWS Certified AI Practitioner](https://www.credly.com/badges/6a455761-6178-463f-9e4b-eda74f258c77/public_url)
-- [Microsoft Azure AI Fundamentals](https://www.credly.com/badges/b0bf0d70-90a8-4e19-bf51-116d41880af7/public_url)
-- [Docker Fundamentals by KodeKloud](https://learn.kodekloud.com/certificate/9771d1ac-2ba5-4624-8e47-9e20a5ddab5d)
-- [The Modern Python Bootcamp](https://www.udemy.com/certificate/UC-7327e6de-b058-478f-99cf-3e36ed068989/)
 
-## ✍️ Featured Articles
-- Git Mastery Series
-  - [Part 1: Mastering Git — What, Why, and How It Works](https://medium.com/@adityapise.0711/part-1-mastering-git-what-why-and-how-it-works-a77d2b7cd902)
-  - [Part 2: Understanding Git Commands Deeply](https://medium.com/@adityapise.0711/part-2-understanding-git-commands-deeply-dc4af672926e)
-  - [Part 3 — Advanced Git Internals and Best Practices](https://medium.com/@adityapise.0711/part-3-advanced-git-internals-and-best-practices-fefb747c0e1e?sk=c61738ff06deb2ee8f81b7e1cc14a674)
-- [Building Spendlytic: From Prototype to Scalable Cloud-Native System on AWS](https://www.linkedin.com/pulse/buidling-spendlytic-from-prototype-scalable-system-aws-aditya-pise-pyj0f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Btq4slw47QZS852jXhT7peQ%3D%3D)
+- AWS Certified **AI Practitioner**
+- AWS Certified **Developer – Associate**
+- Microsoft **Azure AI Fundamentals**
+- Docker Fundamentals (KodeKloud)
 
-## Connect with me:
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapise.0711@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/adityapise)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapise.0711)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anpise)
+---
 
-## 🛠️ Technical Skills  
+## 🛠️ Core Tech Stack
 
-### 🚀 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+**Backend & Systems**  
+`Java` · `Spring Boot` · `Python` · `Django` · `FastAPI` · `Kafka` · `Redis`
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle 19c](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+**Cloud & DevOps**  
+`AWS` · `Docker` · `Kubernetes` · `GitHub Actions` · `CI/CD`
 
-### 🏗️ Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+**Applied GenAI**  
+`LLMs` · `RAG` · `LangChain` · `LlamaIndex` · `Vector Databases`
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+---
 
-### 🤖 Machine Learning & Generative AI  
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=langchain&logoColor=white) 
-![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-ffcc00?style=for-the-badge&logo=openai&logoColor=black) 
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00C853?style=for-the-badge&logo=llamaindex&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/adityapise)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@adityapise.0711)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityapise.0711@gmail.com)
